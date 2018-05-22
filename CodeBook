@@ -12,6 +12,7 @@ Identifiers:
   •	subject
     Subject identifier, integer, ranges from 1 to 30.
   •	activity
+    The type of activity performed when the corresponding measurements were taken
 
 Activity identifier, string with 6 possible values:
 
