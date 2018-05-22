@@ -1,14 +1,19 @@
-Variables
+
+#Code Book
+
+This code book summarizes the resulting data fields in tidy.txt.
+
+#Variables
 
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
 
-Identifiers:
+#Identifiers:
 
   •	subject
     Subject identifier, integer, ranges from 1 to 30.
   •	activity
 
-Activity identifier, string with 6 possible values:
+#Activity identifier, string with 6 possible values:
 
     o	WALKING: subject was walking
     o	WALKING_UPSTAIRS: subject was walking upstairs
@@ -17,7 +22,7 @@ Activity identifier, string with 6 possible values:
     o	STANDING: subject was standing
     o	LAYING: subject was laying
 
-Measurements:
+3Measurements:
 
 tBodyAccMeanX
 tBodyAccMeanY
