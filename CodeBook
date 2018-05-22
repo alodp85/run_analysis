@@ -4,18 +4,18 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 
 Identifiers:
 
-•	subject
-Subject identifier, integer, ranges from 1 to 30.
-•	activity
+  •	subject
+    Subject identifier, integer, ranges from 1 to 30.
+  •	activity
 
 Activity identifier, string with 6 possible values:
 
-o	WALKING: subject was walking
-o	WALKING_UPSTAIRS: subject was walking upstairs
-o	WALKING_DOWNSTAIRS: subject was walking downstairs
-o	SITTING: subject was sitting
-o	STANDING: subject was standing
-o	LAYING: subject was laying
+    o	WALKING: subject was walking
+    o	WALKING_UPSTAIRS: subject was walking upstairs
+    o	WALKING_DOWNSTAIRS: subject was walking downstairs
+    o	SITTING: subject was sitting
+    o	STANDING: subject was standing
+    o	LAYING: subject was laying
 
 Measurements:
 
